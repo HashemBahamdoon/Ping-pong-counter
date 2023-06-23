@@ -20,6 +20,13 @@ You can download and install the Ping Ping Pong Counter app from the following l
 
 Please note that the app is only available for Android devices.
 
+### Scoreboard View
+![Scoreboard View](https://play-lh.googleusercontent.com/J1jhJiqUzmt2Hejf1UPwoo49jWNP3nRcIHS28adwAV5rm4i6kgCbn7SU3GdnRJK-Rck=w2560-h1440-rw)
+
+### Winner View
+![Winner View](https://play-lh.googleusercontent.com/C_Fe1RP7fe95Zjh4r4RhEkInRTLTis-1PTVHXrlSxIFgrsEDKgHiwSyv5f-tK-vRaw=w2560-h1440-rw)
+
+
 ## Usage
 
 1. Launch the app on your Android device.
@@ -53,7 +60,3 @@ The Ping Ping Pong Counter app was created by Hashem Bahamdoon for the purpose o
 If you have any questions or feedback regarding the app, please contact the developer at [hashimba2000@gmail.com](mailto:hashimba2000@gmail.com).
 
 Thank you for using Ping Ping Pong Counter!
-
-![Scoreboard View](https://play-lh.googleusercontent.com/J1jhJiqUzmt2Hejf1UPwoo49jWNP3nRcIHS28adwAV5rm4i6kgCbn7SU3GdnRJK-Rck=w2560-h1440-rw)
-
-![Winner View](https://play-lh.googleusercontent.com/C_Fe1RP7fe95Zjh4r4RhEkInRTLTis-1PTVHXrlSxIFgrsEDKgHiwSyv5f-tK-vRaw=w2560-h1440-rw)
