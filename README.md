@@ -53,7 +53,7 @@ Ping Ping Pong Counter was developed using Java and the Android framework. The a
 
 ## Acknowledgements
 
-The Ping Ping Pong Counter app was created by Hashem Bahamdoon for the purpose of keeping track of scores during ping pong games. The app is free to use and does not contain any in-app purchases.
+The Ping Pong Counter app was created by Hashem Bahamdoon for the purpose of keeping track of scores during ping pong games. The app is free to use and does not contain any in-app purchases.
 
 If you have any questions or feedback regarding the app, please contact the developer at [hashimba2000@gmail.com](mailto:hashimba2000@gmail.com).
 
