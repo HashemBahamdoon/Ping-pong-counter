@@ -1,4 +1,4 @@
-# Ping Ping Pong Counter
+# Ping Pong Counter
 
 Ping Ping Pong Counter is an Android application developed to keep track of points during a ping pong game, it has developed and published in 2020. The app helps players avoid the hassle of forgetting the score by providing a convenient counter.
 
