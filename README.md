@@ -6,8 +6,6 @@ Ping Ping Pong Counter is an Android application developed to keep track of poin
 
 - Toss-Up: Pressing the "Toss-Up" button simulates a coin toss to determine which player serves first. The result is displayed on the screen.
 
-- Start Game: Pressing the "Let Go" button starts the game and takes you to the scoreboard screen.
-
 - Scoreboard: The scoreboard screen displays the names of the players, their current points, and a counter for each player's score. Clicking on the counter increments the respective player's score.
 
 - Winner Announcement: When a player reaches the winning score (specified by the user), the app declares the winner and displays a message.
