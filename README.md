@@ -28,15 +28,13 @@ Please note that the app is only available for Android devices.
 
 3. Press the "Toss-Up" button to determine which player serves first.
 
-4. Press the "Let Go" button to start the game and navigate to the scoreboard screen.
+4. During the game, click on the counters to increment the points for each player.
 
-5. During the game, click on the counters to increment the points for each player.
+5. The app will automatically declare the winner when a player reaches the winning score.
 
-6. The app will automatically declare the winner when a player reaches the winning score.
+6. To reset the game and scores, click the "Reset" button.
 
-7. To reset the game and scores, click the "Reset" button.
-
-8. To change the player names or the winning score, click the "Settings" button.
+7. To change the player names or the winning score, click the "Settings" button.
 
 ## Development
 
@@ -55,3 +53,7 @@ The Ping Ping Pong Counter app was created by Hashem Bahamdoon for the purpose o
 If you have any questions or feedback regarding the app, please contact the developer at [hashimba2000@gmail.com](mailto:hashimba2000@gmail.com).
 
 Thank you for using Ping Ping Pong Counter!
+
+![Scoreboard View](https://play-lh.googleusercontent.com/J1jhJiqUzmt2Hejf1UPwoo49jWNP3nRcIHS28adwAV5rm4i6kgCbn7SU3GdnRJK-Rck=w2560-h1440-rw)
+
+![Winner View](https://play-lh.googleusercontent.com/C_Fe1RP7fe95Zjh4r4RhEkInRTLTis-1PTVHXrlSxIFgrsEDKgHiwSyv5f-tK-vRaw=w2560-h1440-rw)
