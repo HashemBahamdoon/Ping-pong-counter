@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">عداد تنس طاولة</string>
+    <string name="firstconter" translatable="false">0</string>
+    <string name="seconedconter" translatable="false">0</string>
+    <string name="enter_the_player_s_first_name">اسم اللاعب الاول:</string>
+    <string name="enter_the_player_s_second_name">اسم اللاعب الثاني:</string>
+    <string name="enter_name_here">ادخل الاسم هنا</string>
+    <string name="let_s_go" translatable="false">let\'s go</string>
+    <string name="click_to_toss_up" translatable="false">Click to toss-up</string>
+    <string name="done">تم</string>
+    <string name="enter_palyer1_name">اسم اللاعب الاول:</string>
+    <string name="enter_player2_name">اسم اللاب الثاني:</string>
+
+<string name="who_serve_first">"الارسال مع : "</string>
+    <string name="number_of_points_to_win">عدد النقاط للفوز:</string>
+    <string name="enter_a_number_of_points_here">ادخل عدد النقاط</string>
+
+    <string name="player_2" translatable="false">Player 2</string>
+    <string name="player_1" translatable="false">Player 1</string>
+
+<string name="tips">استمر بالضغط على اسم اللاعب لخفض نقطه</string>
+</resources>

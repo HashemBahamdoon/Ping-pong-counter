@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ping pong counter</string>
+    <string name="first_player" translatable="false">First Player</string>
+    <string name="second_player" translatable="false">Second Player</string>
+    <string name="firstconter" translatable="false">0</string>
+    <string name="seconedconter" translatable="false">0</string>
+    <string name="enter_the_player_s_first_name">Enter Player1 Name:</string>
+    <string name="enter_the_player_s_second_name">Enter Player2 Name:</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="let_s_go" translatable="false">let\'s go</string>
+    <string name="click_to_toss_up" translatable="false">Click to toss-up</string>
+    <string name="done">Done</string>
+    <string name="enter_palyer1_name">Enter palyer1 Name :</string>
+    <string name="enter_player2_name">Enter Player2 Name :</string>
+
+<string name="who_serve_first">  The Player Who Serves Is : </string>
+    <string name="number_of_points_to_win">Number Of Points To Win:</string>
+    <string name="enter_a_number_of_points_here">ُEnter points </string>
+
+    <string name="player_2" translatable="false">Player 2</string>
+    <string name="player_1" translatable="false">Player 1</string>
+
+<string name="tips"> Hold On Player Name To Back One Point</string>
+</resources>
